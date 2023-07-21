@@ -28,6 +28,8 @@ cd Platform-science-exercise
 
 5. Run the main script:
 
+node main.js
+
 6. The program will calculate the suitability scores and assign shipment destinations to drivers while maximizing the total suitability.
 
 ## Input Files
